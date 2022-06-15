@@ -1,4 +1,6 @@
 ## Oiii eu sou o Gabriel Rocha
+ 👀 Eu estou interessado em ...Aprender sobre programação
+- 🌱 Eu estou aprendendo ...phyton,html5,CSS3,django,selenium,dentre outros
 <div align="center">
   <a href="https://github.com/Gabrielrocha20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielrocha20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
