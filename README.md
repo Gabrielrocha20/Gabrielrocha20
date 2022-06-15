@@ -1,6 +1,5 @@
-## Oiii eu sou o Gabriel Rocha
- 👀 Eu estou interessado em ...Aprender sobre programação
-- 🌱 Eu estou aprendendo ...phyton,html5,CSS3,django,selenium,dentre outros
+-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Oi eu sou o Gabriel Rocha&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Gabriel+Da+Silva+Rocha;EU+TENHO+20+ANOS;SOU+BRASILEIRO,+RJ;EU+ESTUDO+PYTHON+E+SEUS+FRAMEWORKS;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/Gabrielrocha20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielrocha20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,3 +22,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
