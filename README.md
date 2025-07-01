@@ -11,7 +11,7 @@
 
 ## 🧠 Sobre mim
 
-- 🔧 Desenvolvendo automações com **Python**, **Electron**, **Node.js** e **C#**
+- 🔧 Desenvolvendo automações com **Python**, **Electron** e **Node.js**
 - 🧩 Experiência com **integrações de ERP**, **impressoras**, **controle de produtos** e **dashboards**
 - 🤖 Trabalhando com **LLMs**, **RAG**, **bancos vetoriais**, **automação via RPA** e **testes automatizados**
 - 🧪 Familiar com **Playwright**, **Selenium**, **Qt Designer** e automação desktop
@@ -42,6 +42,8 @@
 ### 🤖 RPA & Integrações
 ![n8n](https://img.shields.io/badge/n8n-4B2E83?style=for-the-badge&logo=n8n&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### 💻 Front-end e Desktop
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
