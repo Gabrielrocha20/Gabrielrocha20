@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Gabriel%20Rocha&fontColor=ffffff&fontSize=40&desc=Back-end%20Developer%20|%20Automação%20e%20IA&descSize=20&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Gabriel%20Rocha&fontColor=ffffff&fontSize=40&desc=Analista-de-Dados%20|%20Automação%20e%20IA&descSize=20&descAlignY=60"/>
 
 <h1 align="center">👨‍💻 Analista de Dados Jr</h1>
 <h3 align="center">Python, Pyspark, Sql</h3>
