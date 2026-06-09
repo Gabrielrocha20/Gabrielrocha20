@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Gabriel%20Rocha&fontColor=ffffff&fontSize=40&desc=Back-end%20Developer%20|%20Automação%20e%20IA&descSize=20&descAlignY=60"/>
 
-<h1 align="center">👨‍💻 Desenvolvedor Back-end & RPA</h1>
-<h3 align="center">Python, Node.js, Integrações, Automação e IA Aplicada</h3>
+<h1 align="center">👨‍💻 Analista de Dados Jr</h1>
+<h3 align="center">Python, Pyspark, Sql</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Sou+apaixonado+por+automação+e+back-end.;Tenho+experiência+com+integrações+e+RPA.;Estudo+inteligência+artificial+e+LLMs.;Bem-vindo+ao+meu+GitHub!" />
@@ -14,7 +14,7 @@
 - 🔧 Desenvolvendo automações com **Python**, **Electron** e **Node.js**
 - 🧩 Experiência com **integrações de ERP**, **impressoras**, **controle de produtos** e **dashboards**
 - 🤖 Trabalhando com **LLMs**, **RAG**, **bancos vetoriais**, **automação via RPA** e **testes automatizados**
-- 🧪 Familiar com **Playwright**, **Selenium**, **Qt Designer** e automação desktop
+- 🧪 Familiar com **Playwright**, **Selenium**, **Qt Designer**, **DataBricksr**, **Power Bi**   e automação desktop
 - 📚 Estudando: Arquitetura limpa, mensageria (RabbitMQ), testes, Docker e CI/CD
 
 ---
